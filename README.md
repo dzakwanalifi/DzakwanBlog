@@ -2,7 +2,11 @@
 
 Undergraduate Student in Statistics and Data Science Departement of IPB University
 
-I'm a long life learner. Interested in **data science** field. Highly motivated student with leadership capabilities and experience. Skilled in graphic design with Corel Draw, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, and live streaming.
+
+
+I'am a long life learner. Interested in **data science** field. Highly motivated student with leadership capabilities and experience. Skilled in graphic design with Corel Draw, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, and live streaming.
+
+
 
 **Visit me on**
 

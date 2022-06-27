@@ -4,6 +4,10 @@ description: Rangkuman hasil belajar dari Kaggle
 
 # Pengenalan Python Data Science untuk Pemula
 
+{% hint style="info" %}
+Kode-kode di bawah ditulis dan dijalankan mengunakan Jupyter Notebook
+{% endhint %}
+
 ### Pemanasan dulu gan!
 
 ```python
