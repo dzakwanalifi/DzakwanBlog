@@ -11,11 +11,11 @@
 ## Data Sciene
 
 * [Python](data-sciene/python/README.md)
-  * [Pengenalan Python Data Science untuk Pemula](data-sciene/python/pengenalan-python-data-science-untuk-pemula.md)
+  * [Pengenalan Python Data Science untuk Pemula](data-sciene/pengenalan-python-data-science-untuk-pemula.md)
 * [Statistics](data-sciene/statistics/README.md)
-  * [Elemen Data](data-sciene/statistics/elemen-data.md)
-  * [Estimasi Lokasi](data-sciene/statistics/estimasi-lokasi.md)
-  * [Rectangular Data](data-sciene/statistics/rectangular-data.md)
+  * [Elemen Data](statistics/elemen-data.md)
+  * [Estimasi Lokasi](statistics/estimasi-lokasi.md)
+  * [Rectangular Data](statistics/rectangular-data.md)
 
 ## Visit Me
 

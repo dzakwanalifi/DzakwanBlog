@@ -1,6 +1,5 @@
 ---
 description: Rangkuman hasil belajar dari Kaggle
-layout: editorial
 ---
 
 # Pengenalan Python Data Science untuk Pemula
@@ -84,7 +83,7 @@ sns.heatmap(data.corr(),annot=True, linewidths= .5, fmt='.1f', ax=ax)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_7\_0.png)
+![](../.gitbook/assets/output\_7\_0.png)
 
 ```python
 data.head(10)
@@ -142,7 +141,7 @@ plt.title('Line Plot')
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_13\_0.png)
+![](../.gitbook/assets/output\_13\_0.png)
 
 ```python
 # Scatter plot
@@ -153,7 +152,7 @@ plt.ylabel('Defense')
 plt.title('Attack Defense Pokemon')
 ```
 
-![](../../.gitbook/assets/output\_14\_1.png)
+![](../.gitbook/assets/output\_14\_1.png)
 
 ```
 Text(0.5, 1.0, 'Attack Defense Pokemon')
@@ -170,7 +169,7 @@ data.Speed.plot(kind = 'hist', bins = 50, figsize = (15, 10))
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_15\_0.png)
+![](../.gitbook/assets/output\_15\_0.png)
 
 ```python
 # clf() = membersihkan
