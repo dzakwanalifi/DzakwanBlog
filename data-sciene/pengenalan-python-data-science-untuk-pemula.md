@@ -1,5 +1,6 @@
 ---
 description: Rangkuman hasil belajar dari Kaggle
+layout: landing
 ---
 
 # Pengenalan Python Data Science untuk Pemula
