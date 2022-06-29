@@ -1,5 +1,5 @@
 ---
-description: Practical Statistics for Data Scientists
+description: Rangkuman dari buku Practical Statistics for Data Scientists
 ---
 
 # Rectangular Data

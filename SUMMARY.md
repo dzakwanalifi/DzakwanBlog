@@ -7,6 +7,7 @@
 * [Flyer Design](portfolio/flyer-design.md)
 * [Data Analysis](portfolio/data-analysis.md)
 * [Instagram Story Design](portfolio/instagram-story-design.md)
+* [Video Editing](portfolio/video-editing.md)
 
 ## Data Sciene
 
