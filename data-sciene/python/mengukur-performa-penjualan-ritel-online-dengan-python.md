@@ -4,6 +4,10 @@ description: Hasil latihan homework Trial Class Data Science Rakamin Academy.
 
 # Mengukur Performa Penjualan Ritel Online dengan Python
 
+{% hint style="info" %}
+Kode-kode di bawah ditulis dan dijalankan mengunakan Google Colaboratory
+{% endhint %}
+
 #### Homework Rakamin Trial Class - Mini Case
 
 
