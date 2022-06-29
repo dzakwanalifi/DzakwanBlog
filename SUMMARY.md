@@ -14,6 +14,7 @@
 * [Python](data-sciene/python/README.md)
   * [Pengenalan Python Data Science untuk Pemula](data-sciene/pengenalan-python-data-science-untuk-pemula.md)
   * [Exploratory Data Analysis dengan Python](data-sciene/python/exploratory-data-analysis-dengan-python.md)
+  * [Mengukur Performa Penjualan Ritel Online dengan Python](data-sciene/python/mengukur-performa-penjualan-ritel-online-dengan-python.md)
 * [Statistics](data-sciene/statistics/README.md)
   * [Elemen Data](statistics/elemen-data.md)
   * [Estimasi Lokasi](statistics/estimasi-lokasi.md)

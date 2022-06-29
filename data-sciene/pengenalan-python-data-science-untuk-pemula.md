@@ -169,7 +169,7 @@ data.Speed.plot(kind = 'hist', bins = 50, figsize = (15, 10))
 plt.show()
 ```
 
-![](../.gitbook/assets/output\_15\_0.png)
+![](<../.gitbook/assets/output\_15\_0 (1).png>)
 
 ```python
 # clf() = membersihkan
