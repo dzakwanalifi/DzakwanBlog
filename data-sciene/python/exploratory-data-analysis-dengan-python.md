@@ -1,5 +1,7 @@
 ---
-description: Hasil rangkuman praktik dari Trial Class Rakamin
+description: >-
+  Hasil rangkuman praktik dari Trial Class Rakamin dalam materi Exploratory Data
+  Analysis pada dataset sintetik "Probabilitas Kebotakan".
 ---
 
 # Exploratory Data Analysis dengan Python
