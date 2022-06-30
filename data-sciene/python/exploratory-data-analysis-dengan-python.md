@@ -187,7 +187,7 @@ for i in range (0, len(num)):
   plt.tight_layout()
 ```
 
-![](../../.gitbook/assets/output\_22\_0.png)
+![](../../.gitbook/assets/eda\_output\_22\_0.png)
 
 Hal yang paling penting diperhatikan dalam box plot adalah outlier.
 
@@ -206,7 +206,7 @@ for i in range(0, len(num)):
   plt.tight_layout()
 ```
 
-![](../../.gitbook/assets/output\_25\_1.png)
+![](../../.gitbook/assets/eda\_output\_25\_1.png)
 
 * Kolom `gaji`, `berat`, dan `tinggi` terlihat skewed seperti pada boxplot
 * Kolom lain sudah simetrik distribusinya.
@@ -223,7 +223,7 @@ for i in range(0, len(kat)):
   plt.tight_layout()
 ```
 
-![](../../.gitbook/assets/output\_28\_1.png)
+![](../../.gitbook/assets/eda\_output\_28\_1.png)
 
 * Distribusi `pendidikan` dan `pekerjaan` didominasi oleh 1-2 value.
 
@@ -242,7 +242,7 @@ sns.heatmap(df.corr(), cmap='Blues', annot=True, fmt='.2f')
 <matplotlib.axes._subplots.AxesSubplot at 0x7fd14b939a90>
 ```
 
-![](../../.gitbook/assets/output\_32\_1.png)
+![](../../.gitbook/assets/eda\_output\_32\_1.png)
 
 * Target `botak_prob` memiliki korelasi positif yang kuat dengan `is_keturunan`
 * `botak_prob` memiliki korelasi positif lemah dengan `umur`, `is_menikah`, dan `is_merokok`

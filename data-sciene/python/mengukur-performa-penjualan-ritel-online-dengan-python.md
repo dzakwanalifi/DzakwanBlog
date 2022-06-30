@@ -115,7 +115,7 @@ plot1.set_ylabel("Averago of Revenue",fontsize=12)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_15\_0.png)
+![](../../.gitbook/assets/ritel\_output\_15\_0.png)
 
 #### Interpretation
 
@@ -181,7 +181,7 @@ plot1.set_ylabel("Number of Finished Transactions ",fontsize=12)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_27\_0.png)
+![](../../.gitbook/assets/ritel\_output\_27\_0.png)
 
 ```python
 plot1 = count_cancel.plot(kind='line', title ="Number of Canceled Transactions Each Year", figsize=(8,4), legend=True, fontsize=12, color='orange')
@@ -190,7 +190,7 @@ plot1.set_ylabel("Number of Canceled Transactions ",fontsize=12)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_28\_0.png)
+![](../../.gitbook/assets/ritel\_output\_28\_0.png)
 
 ```python
 plot1 = count_total.plot(kind='line', title ="Number of Finished and Canceled Transactions Each Year",figsize=(8,4),legend=True, fontsize=12)
@@ -199,7 +199,7 @@ plot1.set_ylabel("Number of Finished and Canceled Transactions ",fontsize=12)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_29\_0.png)
+![](../../.gitbook/assets/ritel\_output\_29\_0.png)
 
 #### Cancellation Rate
 
@@ -234,7 +234,7 @@ plot2.set_ylabel("Cancellation Rate",fontsize=12)
 plt.show()
 ```
 
-![](../../.gitbook/assets/output\_32\_0.png)
+![](../../.gitbook/assets/ritel\_output\_32\_0.png)
 
 #### Interpretation
 
