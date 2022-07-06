@@ -20,6 +20,11 @@
   * [Estimasi Lokasi](statistics/estimasi-lokasi.md)
   * [Rectangular Data](statistics/rectangular-data.md)
 
+## Machine Learning
+
+* [Python](machine-learning/python/README.md)
+  * [Aplikasi Convolutional Neural Networks Menggunakan Keras untuk Klasifikasi Foto Anjing dan Kucing](machine-learning/python/aplikasi-convolutional-neural-networks-menggunakan-keras-untuk-klasifikasi-foto-anjing-dan-kucing.md)
+
 ## Visit Me
 
 * [LinkedIn](https://www.linkedin.com/in/dzakwanalifi/)
