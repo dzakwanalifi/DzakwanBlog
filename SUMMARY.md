@@ -25,6 +25,7 @@
 
 * [Python](machine-learning/python/README.md)
   * [Aplikasi Convolutional Neural Networks Menggunakan Keras untuk Klasifikasi Foto Anjing dan Kucing](machine-learning/python/aplikasi-convolutional-neural-networks-menggunakan-keras-untuk-klasifikasi-foto-anjing-dan-kucing.md)
+  * [Klasifikasi Penyakit pada Daun Kentang](machine-learning/python/klasifikasi-penyakit-pada-daun-kentang.md)
 
 ## Visit Me
 
