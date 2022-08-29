@@ -1,6 +1,10 @@
 # Klasifikasi Penyakit pada Daun Kentang
 
-Dataset diambil dari https://www.kaggle.com/arjuntejaswi/plant-village
+Dataset diambil dari [Kaggle](https://www.kaggle.com/arjuntejaswi/plant-village) yang terdiri dari
+
+* 1000 gambar daun kentang penyakit busuk daun
+* 1000 gambar daun kentang penyakit hawar dini
+* 152 gambar daun kentang sehat
 
 ### Impor libraries
 
