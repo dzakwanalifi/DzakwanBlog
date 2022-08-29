@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Hi, I'm Dzakwan Alifi](README.md)
+* [Curriculum Vitae](curriculum-vitae.md)
 
 ## Portfolio
 
